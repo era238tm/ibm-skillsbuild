@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "66bfe5654f2752fae1977913"
+  },
+  "title": "Empowering Rural Women Through Skill Development",
+  "description": "Provide vocational training in tailoring, embroidery, and handicrafts to rural women to help them become self-sufficient and generate income.",
+  "datetime": {
+    "$date": "2024-11-15T03:30:00.000Z"
+  },
+  "location": "Village Panchayat, District Hisar, State Harayana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c0993c16ee494a1b272873"
+  },
+  "title": "Urban Slum Upliftment Initiative",
+  "description": "Organize community clean-up drives, health camps, and literacy programs in urban slums to improve living conditions and access to basic amenities.",
+  "datetime": {
+    "$date": "2025-02-20T05:00:00.000Z"
+  },
+  "location": "Community Center, Mumbai, Maharashtra",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c099cd16ee494a1b272879"
+  },
+  "title": "Child Nutrition and Education Program",
+  "description": "Conduct nutritional awareness sessions for mothers and provide supplementary meals to malnourished children in tribal areas. Also, set up learning centers for children.",
+  "datetime": {
+    "$date": "2024-12-08T05:30:00.000Z"
+  },
+  "location": "Tribal Hamlet, District Mysuru, State Karnataka",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c09a3d16ee494a1b27287d"
+  },
+  "title": "Disaster Preparedness and Relief",
+  "description": "Train community members in disaster management and first aid. Organize mock drills and distribute emergency kits.",
+  "datetime": {
+    "$date": "2025-03-12T03:00:00.000Z"
+  },
+  "location": "Rural Panchayat, District Ghaziabad, State Uttar Pradesh",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c09ab816ee494a1b272881"
+  },
+  "title": "Affordable Housing Construction",
+  "description": "Mobilize volunteers to assist in the construction of low-cost, eco-friendly homes for underprivileged families.",
+  "datetime": {
+    "$date": "2025-01-18T03:30:00.000Z"
+  },
+  "location": "Urban Slum Area, Village Sawda, State Delhi",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c09bdb16ee494a1b272885"
+  },
+  "title": "Digital Literacy for the Underprivileged",
+  "description": "Provide computer training and digital literacy skills to youth from marginalized communities to enhance their employability.",
+  "datetime": {
+    "$date": "2024-11-25T06:30:00.000Z"
+  },
+  "location": "Community Center, Colony Daddu Majra, City Chandigarh",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c09ca616ee494a1b272889"
+  },
+  "title": "Rural Healthcare Outreach",
+  "description": "Organize medical camps in remote villages to provide basic healthcare services, distribute medicines, and create awareness about preventive health.",
+  "datetime": {
+    "$date": "2025-03-05T04:00:00.000Z"
+  },
+  "location": "Village Panchayat, District Visakhapatnam, State Andhra Pradesh",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c09d1116ee494a1b27288d"
+  },
+  "title": "Elderly Care and Support",
+  "description": "Provide companionship, assistance with daily chores, and healthcare support to elderly people living alone.",
+  "datetime": {
+    "$date": "2025-01-10T05:30:00.000Z"
+  },
+  "location": "Old Age Home, City Gobindpur, State Jharkhand",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c09d8016ee494a1b272891"
+  },
+  "title": "Education Support for Underprivileged Children",
+  "description": "Provide tutoring, mentorship, and educational materials to children from economically disadvantaged backgrounds.",
+  "datetime": {
+    "$date": "2025-02-15T03:30:00.000Z"
+  },
+  "location": "Government School, City Mahuawa, State Bihar",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c09e2d16ee494a1b272895"
+  },
+  "title": "Skill Development for Youth",
+  "description": "Provide vocational training in various skills such as plumbing, carpentry, and electrical work to unemployed youth.",
+  "datetime": {
+    "$date": "2025-01-20T04:00:00.000Z"
+  },
+  "location": "Government Training Institute, City Udaipur, State Rajasthan",
+  "__v": 0
+}]
